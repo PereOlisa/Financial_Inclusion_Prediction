@@ -3,4 +3,5 @@ The term Financial inclusion refers to individuals and businesses that have acce
 
 Dataset description: The dataset contains demographic information and what financial services are used by approximately 33,600 individuals across East Africa. The ML model's role is to predict which individuals are most likely to have or use a bank account.
 
-[Launch App](https://share.streamlit.io/PereOlisa/Financial_Inclusion_Prediction/Bank_Account_Prediction2.py)
+
+[![Launch App](https://img.shields.io/badge/Launch-App-brightgreen?style=for-the-badge)](https://share.streamlit.io/PereOlisa/Financial_Inclusion_Prediction/Bank_Account_Prediction2.py)
